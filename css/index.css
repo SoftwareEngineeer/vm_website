@@ -1,6 +1,6 @@
 /*********************center_home****************/
 .center_h {
-    background-image: url(../img/1.jpg);
+    background-image: url(../img/1.avif);
     background-position: center;
     background-size: 70%; /* Adjust the percentage as needed to reduce the size */
 }
